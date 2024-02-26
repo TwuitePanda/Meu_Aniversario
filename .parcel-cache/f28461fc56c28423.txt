@@ -1,4 +1,4 @@
-5937
+5938
 70C:\Ebac\Meu_Aniversario\node_modules\weak-lru-cache\tests\benchmark.js133534595168613890 0
 66C:\Ebac\Meu_Aniversario\node_modules\regenerator-runtime\README.md133534595171482464 0
 66C:\Ebac\Meu_Aniversario\node_modules\css-select\lib\index.d.ts.map133534595184573879 0
@@ -37,6 +37,17 @@
 47C:\Ebac\Meu_Aniversario\node_modules\source-map133534595178361194 1
 28C:\Ebac\Meu_Aniversario\dist133534640969501900 1
 68C:\Ebac\Meu_Aniversario\node_modules\@parcel\workers\src\cpuCount.js133534595178115562 0
+57C:\Ebac\Meu_Aniversario\node_modules\weak-lru-cache\tests133534595172688006 1
+54C:\Ebac\Meu_Aniversario\node_modules\svgo\lib\style.js133534595180086630 0
+85C:\Ebac\Meu_Aniversario\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts133534595185969377 0
+97C:\Ebac\Meu_Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\compress.js133534595179151261 0
+90C:\Ebac\Meu_Aniversario\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133534595191222685 0
+54C:\Ebac\Meu_Aniversario\node_modules\@msgpackr-extract133534607919877451 1
+34C:\Ebac\Meu_Aniversario\.gitignore133534652143569457 0
+79C:\Ebac\Meu_Aniversario\node_modules\@parcel\transformer-babel\lib\constants.js133534595175704416 0
+65C:\Ebac\Meu_Aniversario\node_modules\nth-check\lib\compile.js.map133534595176204639 0
+89C:\Ebac\Meu_Aniversario\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Value.cjs133534595190712615 0
+60C:\Ebac\Meu_Aniversario\node_modules\semver\functions\inc.js133534595178601152 0
 64C:\Ebac\Meu_Aniversario\node_modules\css-tree\lib\lexer\index.js133534595194624182 0
 48C:\Ebac\Meu_Aniversario\node_modules\emoji-regex133534595172798018 1
 88C:\Ebac\Meu_Aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133534595180622081 0
@@ -51,6 +62,17 @@
 53C:\Ebac\Meu_Aniversario\node_modules\posthtml\license133534595166049289 0
 78C:\Ebac\Meu_Aniversario\node_modules\caniuse-lite\data\features\css-lch-lab.js133534595193978863 0
 27C:\Ebac\Meu_Aniversario\src133534593420617093 1
+75C:\Ebac\Meu_Aniversario\node_modules\@parcel\runtime-service-worker\LICENSE133534595166119452 0
+57C:\Ebac\Meu_Aniversario\node_modules\strip-ansi\readme.md133534595170231481 0
+56C:\Ebac\Meu_Aniversario\node_modules\type-fest\base.d.ts133534595172998017 0
+38C:\Ebac\Meu_Aniversario\src\index.html133534640962504451 0
+76C:\Ebac\Meu_Aniversario\node_modules\@parcel\utils\test\prettifyTime.test.js133534595186274623 0
+41C:\Ebac\Meu_Aniversario\node_modules\.bin133534595244318183 1
+80C:\Ebac\Meu_Aniversario\node_modules\@parcel\core\test\fixtures\invalid-distpath133534595194624182 1
+56C:\Ebac\Meu_Aniversario\node_modules\parcel\package.json133534595173793599 0
+56C:\Ebac\Meu_Aniversario\node_modules\lmdb\dict\dict2.txt133534595192473324 0
+85C:\Ebac\Meu_Aniversario\node_modules\@swc\helpers\esm\_initializer_define_property.js133534595191877837 0
+69C:\Ebac\Meu_Aniversario\node_modules\term-size\vendor\macos\term-size133534595171066866 0
 70C:\Ebac\Meu_Aniversario\node_modules\@parcel\core\test\fixtures\parcel133534595195629558 1
 62C:\Ebac\Meu_Aniversario\node_modules\tslib\CopyrightNotice.txt133534595176840034 0
 68C:\Ebac\Meu_Aniversario\node_modules\caniuse-lite\data\regions\JP.js133534595205318662 0
@@ -66,17 +88,6 @@
 91C:\Ebac\Meu_Aniversario\node_modules\csso\node_modules\css-tree\cjs\lexer\generic-const.cjs133534595184188647 0
 80C:\Ebac\Meu_Aniversario\node_modules\@parcel\transformer-js\src\JSTransformer.js133534595172908025 0
 47C:\Ebac\Meu_Aniversario\src\images\download.jpg133534578466939823 0
-75C:\Ebac\Meu_Aniversario\node_modules\@parcel\runtime-service-worker\LICENSE133534595166119452 0
-57C:\Ebac\Meu_Aniversario\node_modules\strip-ansi\readme.md133534595170231481 0
-56C:\Ebac\Meu_Aniversario\node_modules\type-fest\base.d.ts133534595172998017 0
-38C:\Ebac\Meu_Aniversario\src\index.html133534640962504451 0
-76C:\Ebac\Meu_Aniversario\node_modules\@parcel\utils\test\prettifyTime.test.js133534595186274623 0
-41C:\Ebac\Meu_Aniversario\node_modules\.bin133534595244318183 1
-80C:\Ebac\Meu_Aniversario\node_modules\@parcel\core\test\fixtures\invalid-distpath133534595194624182 1
-56C:\Ebac\Meu_Aniversario\node_modules\parcel\package.json133534595173793599 0
-56C:\Ebac\Meu_Aniversario\node_modules\lmdb\dict\dict2.txt133534595192473324 0
-85C:\Ebac\Meu_Aniversario\node_modules\@swc\helpers\esm\_initializer_define_property.js133534595191877837 0
-69C:\Ebac\Meu_Aniversario\node_modules\term-size\vendor\macos\term-size133534595171066866 0
 42C:\Ebac\Meu_Aniversario\node_modules\@lmdb133534607919877451 1
 45C:\Ebac\Meu_Aniversario\src\images\images.jpg133534578381402580 0
 61C:\Ebac\Meu_Aniversario\node_modules\css-tree\dist\csstree.js133534595193233606 0
@@ -116,12 +127,6 @@
 86C:\Ebac\Meu_Aniversario\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h133534595190652472 0
 71C:\Ebac\Meu_Aniversario\node_modules\@swc\core-win32-x64-msvc\README.md133534595167113440 0
 43C:\Ebac\Meu_Aniversario\node_modules\@lezer133534595142604658 1
-57C:\Ebac\Meu_Aniversario\node_modules\weak-lru-cache\tests133534595172688006 1
-54C:\Ebac\Meu_Aniversario\node_modules\svgo\lib\style.js133534595180086630 0
-85C:\Ebac\Meu_Aniversario\node_modules\css-select\node_modules\domutils\lib\legacy.d.ts133534595185969377 0
-97C:\Ebac\Meu_Aniversario\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\compress.js133534595179151261 0
-90C:\Ebac\Meu_Aniversario\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133534595191222685 0
-54C:\Ebac\Meu_Aniversario\node_modules\@msgpackr-extract133534607919877451 1
 92C:\Ebac\Meu_Aniversario\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Operator.cjs133534595188655720 0
 97C:\Ebac\Meu_Aniversario\node_modules\htmlnano\docs\versioned_sidebars\version-1.1.1-sidebars.json133534595185044017 0
 47C:\Ebac\Meu_Aniversario\node_modules\fill-range133534595170031372 1
@@ -1459,10 +1464,6 @@
 66C:\Ebac\Meu_Aniversario\node_modules\@parcel\packager-wasm\LICENSE133534595166129450 0
 85C:\Ebac\Meu_Aniversario\node_modules\csso\node_modules\css-tree\cjs\parser\create.cjs133534595180822074 0
 64C:\Ebac\Meu_Aniversario\node_modules\semver\functions\compare.js133534595175038980 0
-79C:\Ebac\Meu_Aniversario\node_modules\@parcel\transformer-babel\lib\constants.js133534595175704416 0
-65C:\Ebac\Meu_Aniversario\node_modules\nth-check\lib\compile.js.map133534595176204639 0
-89C:\Ebac\Meu_Aniversario\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Value.cjs133534595190712615 0
-60C:\Ebac\Meu_Aniversario\node_modules\semver\functions\inc.js133534595178601152 0
 87C:\Ebac\Meu_Aniversario\node_modules\@swc\helpers\_\_await_async_generator\package.json133534595194614157 0
 60C:\Ebac\Meu_Aniversario\node_modules\semver\functions\lte.js133534595180166756 0
 85C:\Ebac\Meu_Aniversario\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb133534595192593347 1
