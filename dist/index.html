@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aniversário - 18/12</title>
+
+    <style>body {
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  color: #fff;
+  text-align: center;
+  background-color: #0b0054;
+  padding: 1em;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.main {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 2em 0;
+  display: flex;
+}
+
+.main .event {
+  background-color: #fff;
+  border-radius: 5px;
+  flex: 1;
+  margin: 1em;
+  padding: 1em;
+  box-shadow: 0 0 10px #09016ab3;
+}
+
+.main .event img {
+  border-radius: 5px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.main .event h2 {
+  color: #0b0054;
+}
+
+.main .event p {
+  color: #2a0061;
+}
+
+.countdown {
+  text-align: center;
+  color: #fff;
+  background-color: #0b0054;
+  padding: 20px;
+}
+
+@media (width <= 768px) {
+  .main .event {
+    flex: 100%;
+  }
+}
+
+</style>
+</head>
+<body>
+
+    <header>
+        <h1 id="birthday-title">🎉 Aniversário em 18/12 🎂</h1>
+    </header>
+
+    <div class="hero">
+        <h1>Seja bem-vindo à festa de aniversário!</h1>
+        <p>Uma celebração especial aguarda por você. Vamos comemorar juntos!</p>
+    </div>
+
+    <div class="container">
+        <div class="main">
+            <div class="event">
+                <img src="/images.c87053f2.jpg" alt="Sobre o Evento">
+                <h2>Sobre o Evento</h2>
+                <p>
+                    Venha comemorar meu aniversário no dia 18 de dezembro! Será uma festa cheia de alegria, música e diversão. Não perca!
+                </p>
+            </div>
+
+            <div class="event">
+                <img src="/download.8256a303.jpg" alt="Localização">
+                <h2>Localização</h2>
+                <p>
+                    O evento acontecerá em [Local], em [Endereço]. Venha nos visitar e celebre este dia especial comigo.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="countdown">
+        <h2>Contagem Regressiva para o Aniversário</h2>
+        <div id="countdown-timer"></div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Aniversário em 18/12. Todos os direitos reservados.</p>
+    </div>
+
+    <script>// Função para calcular e exibir a contagem regressiva
+function updateCountdown() {
+    const currentDate = new Date();
+    const targetDate = new Date("2024-12-18T00:00:00");
+    const timeDifference = targetDate - currentDate;
+    const days = Math.floor(timeDifference / 86400000);
+    const hours = Math.floor(timeDifference % 86400000 / 3600000);
+    const minutes = Math.floor(timeDifference % 3600000 / 60000);
+    const seconds = Math.floor(timeDifference % 60000 / 1000);
+    const countdownElement = document.getElementById("countdown-timer");
+    countdownElement.innerHTML = `<p>${days}d ${hours}h ${minutes}m ${seconds}s</p>`;
+    // Atualizar dinamicamente o título com a contagem regressiva
+    const birthdayTitle = document.getElementById("birthday-title");
+    birthdayTitle.innerHTML = `\u{1F389} Anivers\xe1rio em 18/12 (${days} dias, ${hours} horas, ${minutes} minutos, ${seconds} segundos) \u{1F382}`;
+}
+// Atualizar a contagem regressiva a cada segundo
+setInterval(updateCountdown, 1000);
+// Chamar a função de atualização pela primeira vez
+updateCountdown();
+
+</script>
+
+<script src="/Meu_Aniversario.59712999.js"></script></body>
+</html>
